@@ -1,1 +1,5 @@
-# hello-world10
+#include<stdio.h>
+void main()
+{
+    printf("good morning...!");
+ }   
